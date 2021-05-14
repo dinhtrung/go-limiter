@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sethvargo/go-limiter/internal/fasttime"
+	"github.com/sethvargo/go-limiter/pkg/fasttime"
 )
 
 func testKey(tb testing.TB) string {
